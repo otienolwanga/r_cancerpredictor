@@ -1,5 +1,5 @@
 # r_cancerpredictor
-This repositpory contains information on how to perform cancer prediction in R. 
+This repositpory contains information on how to perform cancer prediction in **R**. 
 
 ## Project Outline
 * Introduction 
@@ -20,4 +20,4 @@ This repositpory contains information on how to perform cancer prediction in R.
 * Visualization and communication 
 
 ### Introduction 
-Cancer is a serious health problem reported worldwide. Healthcare system need to have measures of adequate prediction. This can be achieved by appliction of artificial intelligence and machine learning.
+Cancer is a serious health problem reported worldwide. Healthcare system need to have measures of adequate prediction. This can be achieved by appliction of artificial intelligence and machine learning such as random forest or SVM.
